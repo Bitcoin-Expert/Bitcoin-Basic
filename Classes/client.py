@@ -1,5 +1,4 @@
 # import libraries
-import hashlib
 import random
 import string
 import json
